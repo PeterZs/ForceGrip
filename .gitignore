@@ -77,3 +77,6 @@ crashlytics-build.properties
 # Python local files
 .idea/
 .ipynb_checkpoints/
+# Unity ML-Agents runtime output
+/ForceGrip_UnityProject_ForDemo/Assets/ML-Agents/
+/ForceGrip_UnityProject_ForDemo/Assets/ML-Agents.meta
