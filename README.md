@@ -31,10 +31,7 @@ It introduces a reference-free curriculum learning approach for realistic grip f
 - Pre-built binaries are **not provided** — please use the Unity Editor to run the project.
 - **Windows only**. Other platforms require manual modifications.
 - All code may not be perfectly organized for other settings.
-  If you encounter issues, please open a **GitHub Issue** in this repository.
-  > Immediate fixes may not be possible, but we will try to respond as best as we can.
-- If you need the **training code**, please contact me by email.
-  > The training code is not organized for release, but may be shared depending on the situation.
+- The **training code** is available at [ForceGrip-Training](https://github.com/Han-DongHeun/ForceGrip-Training).
 
 ### 😉 Tips
 - The current training version is configured so that the **trigger value (0–1)** corresponds to a **grip force of 0–10 kg**.
@@ -60,3 +57,4 @@ If you use this project in academic work, please cite:
   url = {https://doi.org/10.1145/3721238.3730738},
   note = {https://han-dongheun.github.io/ForceGrip}
 }
+```
